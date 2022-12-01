@@ -1,5 +1,10 @@
+/**
+ * Class: CCCS-301-774
+ * Name: Nil Mackay
+ * ID: 261077199
+ */
+
 import java.util.Comparator;
-import java.util.Iterator;
 import java.util.List;
 
 public class SortByPrice implements SortStrategy {

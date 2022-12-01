@@ -1,3 +1,9 @@
+/**
+ * Class: CCCS-301-774
+ * Name: Nil Mackay
+ * ID: 261077199
+ */
+
 public interface Computer {
 
 
@@ -5,5 +11,5 @@ public interface Computer {
 
     double getPrice();
 
-    String getOrderID(); // needs to be string??
+    String getOrderID();
 }
